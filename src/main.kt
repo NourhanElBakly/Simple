@@ -8,5 +8,6 @@ fun add(num1: Int, num2: Int): Int {
 	print("WHATEVER")
 	print("1")
 	print("2")
+	print("3")
 	return num1 + num2
 }
