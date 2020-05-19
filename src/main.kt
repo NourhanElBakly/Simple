@@ -5,5 +5,6 @@ fun main(args: Array<String>){
 }
 
 fun add(num1: Int, num2: Int): Int {
+	print("WHATEVER")
 	return num1 + num2
 }
