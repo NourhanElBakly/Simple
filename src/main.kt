@@ -1,5 +1,5 @@
 fun main(args: Array<String>){
-	print("Hello, QUARANTIED World!")
+	print("Hello, STUPID QUARANTIED World!")
 	print("total = " + add(1, 2))
 }
 
