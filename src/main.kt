@@ -1,3 +1,3 @@
 fun main(args: Array<String>){
-	print("Hello, World!")
+	print("Hello, STUPID World!")
 }
